@@ -1,2 +1,3 @@
 My favorite cocktail is cider peach.
+Second favorite is cider strawberry.
 :wq
